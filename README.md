@@ -65,10 +65,11 @@ C = i/f x Ripple => C = 0,115/(120 x 2,431) => Capacitância mínima para o circ
 
 
 
-## Vídeo de explicação YT
+## Vídeo de demostração YT
 [Link YT](https://youtube.com/shorts/zovsuaQ34ok?feature=share)
 
-
+## Vídeo de explicação YT
+[Link YT]((https://www.youtube.com/watch?v=4OP18t41a2M))
 
 ## Alunos
 ### Tiago Kenzo Ogawa
